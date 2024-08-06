@@ -26,10 +26,12 @@
 		
 		<dc:creator><![CDATA[ActionForex.com]]></dc:creator>
 		<pubDate>Mon, 05 Aug 2024 06:26:25 +0000</pubDate>
-				<category>Test></category>
+		<category>Test></category>
 
-					<description>test
-</description>
+		<description><![CDATA[<p><img width="400" height="300" src="https://www.actionforex.com/wp-content/uploads/pair-images/eurusd.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://www.actionforex.com/wp-content/uploads/pair-images/eurusd.jpg 400w, https://www.actionforex.com/wp-content/uploads/pair-images/eurusd-300x225.jpg 300w, https://www.actionforex.com/wp-content/uploads/pair-images/eurusd-80x60.jpg 80w, https://www.actionforex.com/wp-content/uploads/pair-images/eurusd-265x198.jpg 265w" sizes="(max-width: 400px) 100vw, 400px" /></p>
+<p>test [&#8230;]</p>
+<p>The post <a href="https://www.advancedmarkets.com">EUR/USD Daily Outlook</a> appeared first on <a href="https://www.advancedmarkets.com.com">Test</a>.</p>
+]]></description>
 		
 					<wfw:commentRss>https://www.actionforex.com/technical-outlook/eurusd-outlook/562416-eur-usd-daily-outlook-1944/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
