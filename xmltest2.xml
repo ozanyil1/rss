@@ -26,14 +26,14 @@
 		
 		<dc:creator><![CDATA[ActionForex.com]]></dc:creator>
 		<pubDate>Mon, 05 Aug 2024 06:26:25 +0000</pubDate>
-				<category>Test</category>
+		<category>Test</category>
 
-					<description>test</description>
+		<content:encoded>test</content:encoded>
 		
-					<wfw:commentRss>https://www.actionforex.com/technical-outlook/eurusd-outlook/562416-eur-usd-daily-outlook-1944/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+		<wfw:commentRss>https://www.actionforex.com/technical-outlook/eurusd-outlook/562416-eur-usd-daily-outlook-1944/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
 		
 		
-			</item>
+		</item>
 	</channel>
 </rss>
