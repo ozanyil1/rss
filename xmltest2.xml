@@ -26,9 +26,9 @@
 		
 		<dc:creator><![CDATA[ActionForex.com]]></dc:creator>
 		<pubDate>Mon, 05 Aug 2024 06:26:25 +0000</pubDate>
-		<category><p><![test]]></p></category>
+		<category>test</category>
 
-		<description>test</description>	
+		<description><![CDATA[test]]></description>	
 		</item>
 	</channel>
 </rss>
