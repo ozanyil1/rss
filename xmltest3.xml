@@ -20,34 +20,17 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.5</generator>
 	<item>
-		<!-- Thie title of single new:(mark1)-->
-        <title>SILVER INTRADAY: WATCH 27.56.-TEST</title>
-        <!-- The link that opens when title is clicked (mark1)-->
+        	<title>SILVER INTRADAY: WATCH 27.56.TEST</title>
 		<link>https://www.actionforex.com/technical-outlook/eurusd-outlook/565343-eur-usd-mid-day-outlook-1896/</link>
-        <!-- I do not see anything comment tag does on MT5 -->
 		<comments>https://www.actionforex.com/technical-outlook/eurusd-outlook/565343-eur-usd-mid-day-outlook-1896/#respond</comments>
-		<!-- I do not see anything dc creater tag does on MT5 -->
 		<dc:creator><![CDATA[ActionForex.com]]></dc:creator>
-        <!-- Publish date on mt5 single new (mark2) -->
 		<pubDate>Tue, 27 Aug 2024 13:18:12 +0000</pubDate>
-        <!-- Publish date on mt5 single new (image1 mark3 - image2 mark1) -->
 		<category>SILVER INTRADAY outlook</category>
-        <!-- the guid tag is not necessary but it recommended to use it to identify the item(the single new), a developer could igve more info about it -->
 		<guid isPermaLink="false">https://www.actionforex.com/?p=565343</guid>
 
-
-        <!-- This is the content part of that single new -->
-        <!-- The first p tag is used for the image, developer should help with the style and aligning it in the centre like in the example, I used eurusd image since i dont have the link to your image-->
-		<description><![CDATA[
-            <p><img width="400" height="300" src="https://www.actionforex.com/wp-content/uploads/pair-images/eurusd.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://www.actionforex.com/wp-content/uploads/pair-images/eurusd.jpg 400w, https://www.actionforex.com/wp-content/uploads/pair-images/eurusd-300x225.jpg 300w, https://www.actionforex.com/wp-content/uploads/pair-images/eurusd-80x60.jpg 80w, https://www.actionforex.com/wp-content/uploads/pair-images/eurusd-265x198.jpg 265w" sizes="(max-width: 400px) 100vw, 400px" /></p>
-            <p>Short positions below X.X with targets at Y.Y & Y.Z in extension.<br>Pivot:X.X</p>
-            <p><strong>Our preference:</strong>short positions below X.X with targets at Y.Y & Z.Z in extension.</p>
-            <p><strong>Alternative scenario:</strong>above X.X look for further upside with A.A & B.B as targets.</p>
-            <p><strong>Comment:</strong>the RSI advocates for further decline.</p>
-            <p><strong>Supports and resistances:</strong><br>B.B<br>A.A<br>X.X<br><strong>C.C</strong> Last<br>Y.Y<br>Z.Z<br>C.C</p>
+		<description><![CDATA[<p><img width="400" height="300" src="https://www.actionforex.com/wp-content/uploads/pair-images/eurusd.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://www.actionforex.com/wp-content/uploads/pair-images/eurusd.jpg 400w, https://www.actionforex.com/wp-content/uploads/pair-images/eurusd-300x225.jpg 300w, https://www.actionforex.com/wp-content/uploads/pair-images/eurusd-80x60.jpg 80w, https://www.actionforex.com/wp-content/uploads/pair-images/eurusd-265x198.jpg 265w" sizes="(max-width: 400px) 100vw, 400px" /></p><p>Short positions below X.X with targets at Y.Y & Y.Z in extension.<br>Pivot:X.X</p><p><strong>Our preference:</strong>short positions below X.X with targets at Y.Y & Z.Z in extension.</p><p><strong>Alternative scenario:</strong>above X.X look for further upside with A.A & B.B as targets.</p><p><strong>Comment:</strong>the RSI advocates for further decline.</p><p><strong>Supports and resistances:</strong><br>B.B<br>A.A<br>X.X<br><strong>C.C</strong> Last<br>Y.Y<br>Z.Z<br>C.C</p>
 ]]></description>
 		
-        <!-- As far as i can digure out, comment tags are unnecessary for MT5-->
 		<wfw:commentRss>https://www.actionforex.com/technical-outlook/eurusd-outlook/565343-eur-usd-mid-day-outlook-1896/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		
